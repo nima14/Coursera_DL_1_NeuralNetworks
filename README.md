@@ -1,1 +1,5 @@
-# Coursera_DL_1_NeuralNetworks
+Platform: Coursera
+
+Specialization: Deep Learning
+
+Course: Neural Networks And Deep Learning
